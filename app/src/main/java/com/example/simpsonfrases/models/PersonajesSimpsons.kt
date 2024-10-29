@@ -1,6 +1,7 @@
 package com.example.simpsonfrases.models
 
-data class PersonajesSimpsons(
+data class
+PersonajesSimpsons(
     val quote: String,
     val character: String,
     val image: String,
